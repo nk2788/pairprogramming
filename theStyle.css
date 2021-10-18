@@ -1,0 +1,21 @@
+body{
+	background-image: url("https://d1v7jayx2s9clc.cloudfront.net/user/pages/51.m9ndfukc-0-99/Picture%2011-.png");
+}
+
+h1{
+	height: 20vh;
+	width: 80vh;
+	background-color: white;
+}
+
+div{
+	height: 50vh;
+	width: 100vh;
+	background-color: white;
+}
+
+main {
+	display: flex;
+	justify-content: center;
+}
+
