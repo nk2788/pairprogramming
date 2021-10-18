@@ -1,0 +1,14 @@
+.btn {
+  position: absolute;
+  bottom: 4%;
+  border-radius: 2px;
+  background-color: #ddd;
+}
+
+#next-btn {
+  left: 40%;
+}
+
+#prev-btn {
+  left: 60%;
+}
