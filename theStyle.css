@@ -1,3 +1,7 @@
+
+	@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
 body{
 	background-image: url("https://d1v7jayx2s9clc.cloudfront.net/user/pages/51.m9ndfukc-0-99/Picture%2011-.png");
 }
@@ -6,6 +10,9 @@ h1{
 	height: 20vh;
 	width: 80vh;
 	background-color: white;
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	line-height: 20vh;
 }
 
 div{
