@@ -17,10 +17,10 @@ h1 {
 
 main > ul,
 div {
-  height: 50vh;
+  min-height: 50vh;
   width: 100vh;
   background-color: white;
-  padding: 5px 5%;
+  padding: 5%;
   list-style: none;
 }
 
@@ -68,7 +68,7 @@ main {
 }
 
 .btn {
-  position: absolute;
+  position: fixed;
   bottom: 4%;
   border-radius: 2px;
   background-color: #ddd;
