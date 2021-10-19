@@ -16,7 +16,7 @@ h1 {
   line-height: 20vh;
 }
 
-ul {
+main > ul, div {
   height: 50vh;
   width: 100vh;
   background-color: white;
