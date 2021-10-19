@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Geo&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
 
-
 body {
   font-family: "Geo", sans-serif;
   background-image: url("https://d1v7jayx2s9clc.cloudfront.net/user/pages/51.m9ndfukc-0-99/Picture%2011-.png");
@@ -16,46 +15,43 @@ h1 {
   line-height: 20vh;
 }
 
-
-main > ul, div {
+main > ul,
+div {
   height: 50vh;
   width: 100vh;
   background-color: white;
   padding: 5%;
   list-style: none;
-
 }
 
-
-li{
+li {
   padding: 5px;
 }
 
-li:before{
+li:before {
   content: "*";
 }
 
-.title{
+.title {
   font-family: "Press Start 2P", cursive;
   text-align: center;
   line-height: 10vh;
 }
 
-.title:before{
+.title:before {
   content: none;
 }
 
-#name{
+#name {
   font-size: 3vh;
   line-height: 25vh;
 }
 
-
-.random{
+.random {
   transform: rotate(20deg);
 }
 
-.random2{
+.random2 {
   transform: rotate(-20deg);
 }
 
@@ -86,12 +82,12 @@ main {
   left: 40%;
 }
 
-img{
+img {
   max-height: 100%;
   max-width: 100%;
 }
 
-#imgcont{
+#imgcont {
   display: flex;
   justify-content: center;
 }
