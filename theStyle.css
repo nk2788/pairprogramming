@@ -16,6 +16,7 @@ h1 {
   line-height: 20vh;
 }
 
+
 main > ul, div {
   height: 50vh;
   width: 100vh;
@@ -25,6 +26,7 @@ main > ul, div {
 
 }
 
+
 li{
   padding: 5px;
 }
@@ -32,6 +34,22 @@ li{
 li:before{
   content: "*";
 }
+
+.title{
+  font-family: "Press Start 2P", cursive;
+  text-align: center;
+  line-height: 10vh;
+}
+
+.title:before{
+  content: none;
+}
+
+#name{
+  font-size: 3vh;
+  line-height: 25vh;
+}
+
 
 .random{
   transform: rotate(20deg);
